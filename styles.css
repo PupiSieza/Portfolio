@@ -1,0 +1,119 @@
+#seccion-principal {background-color:rgb(212, 209, 204) ;
+    font-size: 31px;
+    ;
+    color:#4e0404;
+    font-style: times;
+
+   
+}
+
+body{
+   
+  font-family: "Dancing Script";
+  font-optical-sizing: auto;
+  font-style: normal;
+    font-weight: 400;
+    font-style: normal;
+  
+  }
+
+.container {background-color: #8d2c2c;
+color:#4e0404;
+font-style: calibri;
+font-size: 18px;
+border: 3px solid #4e0404;}
+
+
+.Contactos nav{display: flex;
+justify-content: center;}
+
+.imagenportada{
+    height: 380px;
+width: 400px;
+border-radius: 30px 10px;}
+
+
+.seccion-2 img{
+width: 100%;}
+
+
+.acerca-imagen{display: flex;
+justify-content: center;
+}
+
+.seccion-2{display: flex;
+justify-content: center;}
+
+
+header {
+    display: flex;
+    background-color: rgb(212, 209, 204);
+    flex-direction: row;
+    align-items: center  ;
+justify-content:space-between;
+font-size: 22px;
+margin: 30px;
+border: 1px solid #4e0404;}
+
+.seccion-1{display: flex;
+    justify-content: center;
+    align-items: end;
+    padding: 2em;}
+    
+nav ul {display: flex;
+gap: 1em;}
+
+ol, ul {list-style: none;}
+header a i {color:#4e0404;
+    ;
+font-size: 40px;}
+
+footer div nav {display: flex;
+    background-color:rgb(212, 209, 204);
+    align-items: center  ;
+justify-content:center;}
+
+.Contactos {background-color: rgb(212, 209, 204); 
+    font-size: 22px; }
+
+    .Contactos h3{display: flex;
+        background-color: rgb(212, 209, 204);
+    color: #4e0404;
+    font-size: 30px;
+   
+   border: 1px solid #4e0404;
+justify-content: center;}
+
+
+.historiaprofesional h2 {display: flex;
+align-items: center;
+justify-content: center;
+font-size: 35px;
+border: 2px dashed; padding: 5px;}
+
+.cuadros{ display:flex;
+    font-size: 20px;
+    text-align:center;
+    align-items: flex-start;
+}
+    
+.cuadros img{width: 300px;
+height: 200px;
+border-radius: 30px;}
+
+.parrafo3{border: 2px dashed; padding: 5px; border-radius: 10px;}
+.parrafo5{border: 2px dashed; padding: 5px; border-radius: 10px;}
+.parrafo7{border: 2px dashed; padding: 5px; border-radius: 10px;}
+
+
+
+#check {display: none;}
+
+.checkbtn {font-size: 25px;
+color: white;
+float: right;
+line-height: 80px;
+margin-right: 40px;
+cursor: pointer;
+display: none;}
+
